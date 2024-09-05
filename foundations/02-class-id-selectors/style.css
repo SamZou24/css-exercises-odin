@@ -1,0 +1,15 @@
+.oddElements {
+background-color: rgb(241, 166, 177);
+font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#secondElement {
+    color:rgb(11, 11, 216);
+    font-size: 36px;
+}
+
+#fourthID {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
